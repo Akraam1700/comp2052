@@ -39,6 +39,7 @@ todo_app/
 ✅ API REST integrada (/todos)
 ✅ Código modular y mantenible
 
+
 ## 🔧 Instalación
 
 ### Clona el repositorio:
@@ -91,3 +92,4 @@ Actualiza una tarea. Cuerpo esperado:
 ```plaintext
 { "old": "Tarea anterior", "new": "Tarea nueva" }
 ```
+Yandereck Roman Martinez
